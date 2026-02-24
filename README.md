@@ -23,6 +23,3 @@ python main.py
 
 ## Contributing
 Contributions are welcome! Please create a pull request or open an issue to discuss changes.
-
-## License
-This project is licensed under the MIT License.
