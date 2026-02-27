@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 dill
 Xgboost
+flask
 -e .
